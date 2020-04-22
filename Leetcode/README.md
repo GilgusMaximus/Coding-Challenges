@@ -1,4 +1,4 @@
-# Leetcode ![Language](https://img.shields.io/badge/language-Javascript%20%2F%20C++-red.svg) 
+# Leetcode
 This repository is used as collection of my Leetcode solutions. 
 
 # Languages
